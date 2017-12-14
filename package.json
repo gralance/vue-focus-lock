@@ -50,6 +50,6 @@
     "vue": "^2.0.0"
   },
   "dependencies": {
-    "focus-lock": "^0.0.4"
+    "focus-lock": "https://github.com/gralance/focus-lock.git#379ca828a849684a4274ef5c2ec63889168271f5"
   }
 }
